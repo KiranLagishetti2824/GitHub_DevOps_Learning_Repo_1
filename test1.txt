@@ -1,5 +1,5 @@
 this is first test file
 
-after push to remote adding this line
+creating conflict
 
 renamed master to local_dev and created a new branch local_test
